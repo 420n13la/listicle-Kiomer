@@ -1,0 +1,42 @@
+p {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 25px;
+  color : #ff0000;
+  line-height: 32px;
+}
+
+.quote {
+  font-style: italic;
+  color: #ff4d00;
+}
+#title {
+  font-size: 40px;
+  font-family: 'Quicksand' , sans-serif;
+  color: #ff4d00;
+  text-align: center;
+}
+h2 {
+  font-size: 35px;
+  font-family: 'Quicksand' , sans-serif;
+  color: #ff4d00;
+}
+img {
+  height: 18%;
+  width: 18%;
+
+}
+#main {
+  margin: auto;
+  max-width: 50%;
+}
+#main p {
+  padding: 10px;
+}
+body {
+  background-color: #443737;
+}
+#profileName {
+  text-align: center;
+  font-family: 'Quicksand' , sans-serif;
+  color: #ff0000;
+}
