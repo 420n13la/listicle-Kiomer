@@ -40,3 +40,8 @@ body {
   font-family: 'Quicksand' , sans-serif;
   color: #ff0000;
 }
+img {
+  display: flex;
+  justify-content: center;
+
+}
